@@ -33,8 +33,9 @@ ITERATIVELY DEVELOPING A RECOGNITION ALGORITHM
   2. Write the simplest possible recognizer by direct image similarity (norm of image
   difference)
 
-  3. Write a cross-validation for your initial simple classifier. You must output a
-  recognition score and running time.
+  3. Write a cross-validation for your initial simple classifier. 
+  3.1 Separate your images into test and training sets
+  3.2 Output a recognition score and running time. 
 
   4. Attempt to modify the way you compute the similarity in (2) as to increse
   the recognition score
