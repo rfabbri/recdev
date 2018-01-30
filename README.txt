@@ -51,7 +51,6 @@ ITERATIVELY DEVELOPING A RECOGNITION ALGORITHM
         about the drop in speed? is it significant?
   5.6 change n in (5.3)      
   5.7 output recognition rates for each change you make.
-
   6. Implement a more complicated technique and output recognition rates as you
   go
   
