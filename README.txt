@@ -30,7 +30,7 @@ ITERATIVELY DEVELOPING A RECOGNITION ALGORITHM
   1. Starting at the very easy folder, write routines to read the image files
   into 2D arrays of pixels, and organize these into a list of 1D vectors of pixels
 
-  2. Write the simples possible recognizer by direct image similarity (norm of image
+  2. Write the simplest possible recognizer by direct image similarity (norm of image
   difference)
 
   3. Write a cross-validation for your initial simple classifier. You must output a
