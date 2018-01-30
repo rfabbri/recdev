@@ -9,8 +9,9 @@ DESCRIPTION
 
 SOURCES
 
-  We have used images from several sources, mainly a subset of the FEI face image
-  dataset part 1.
+  We have used images from several sources: mainly a modified subset of the FEI face image
+  dataset part 1, as well as cropped regions detected by Facebook on arbitrary
+  photos.
 
 
 FILE NAMES
