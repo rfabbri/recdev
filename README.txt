@@ -27,7 +27,7 @@ FILE NAMES
 
 ITERATIVELY DEVELOPING A RECOGNITION ALGORITHM
 
-  1. Starting at the very easy folder, write routines to read the image files
+  1. Starting at the very-easy folder, write routines to read the image files
   into 2D arrays of pixels, and organize these into a list of 1D vectors of pixels
 
   2. Write the simplest possible recognizer by direct image similarity (norm of image
@@ -51,9 +51,20 @@ ITERATIVELY DEVELOPING A RECOGNITION ALGORITHM
         about the drop in speed? is it significant?
   5.6 change n in (5.3)      
   5.7 output recognition rates for each change you make.
-  6. Implement a more complicated technique and output recognition rates as you
-  go
   
+  7. Run your benchmarks on the very-easy dataset
+  
+  8. Fine tune your algorithm and study failure cases. 
+  
+  9. Try to scale your code to the medium dataset 
+  
+  10. Implement a more complicated technique. Output recognition rates as you go. 
+  
+  11. Scale your algorithm to the hard dataset
+  
+  12. Try the remaining datasets at extras/, possibly before going to the hard
+  dataset
+
 
 AUTHOR
   Curated by Ricardo Fabbri (rfabbri at gmail) - IPRJ/UERJ Nova Friburgo
