@@ -1,6 +1,6 @@
 DESCRIPTION
 
-  This is a collection of datasets built at increasing complexity levels, aimed
+  This is a collection of datasets built at increasing levels of complexity, aimed
   at iteratively building and evaluating recognizers from scratch.
 
   Images are all 100x100, in 4 levels of complexity: very easy, easy, medium and
